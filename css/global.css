@@ -11,6 +11,15 @@ main {
     height: 100vh;
 }
 
+#lado-esquerdo-login {
+    background-color: #2dc91f;
+}
+
+#lado-direito-login {
+    background-color: #efefef;
+}
+
 img.logo-prefeitura {
     width: 300px;
 }
+

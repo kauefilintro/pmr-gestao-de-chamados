@@ -4,3 +4,13 @@
     margin: 0;
     padding: 0;
 }
+
+main {
+    font-family: 'Montserrat';
+    display: flex;
+    height: 100vh;
+}
+
+img.logo-prefeitura {
+    width: 300px;
+}
